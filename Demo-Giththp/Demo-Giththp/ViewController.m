@@ -21,6 +21,7 @@
     NSLog(@"第二次添加");
     
     NSLog(@"第三次");
+    NSLog(@"gao di er ci xiu gai");
 }
 
 - (void)didReceiveMemoryWarning {
