@@ -17,6 +17,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"gao lizhi have this change for it");
+    
+    NSLog(@"第二次添加");
+    
+    NSLog(@"第三次");
 }
 
 - (void)didReceiveMemoryWarning {
